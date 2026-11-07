@@ -16,12 +16,12 @@
 
 **Molino es una suite ofimática gratis y libre para tu ordenador:** documentos, hojas de cálculo, presentaciones y PDF. Sin anuncios, sin cuentas, sin suscripciones, y tus archivos se quedan en tu equipo.
 
-- **Molino PDF**: lee, rellena, firma, edita y organiza tus PDF. Antes se llamaba Folio PDF.
+- **Molino PDF**: lee, rellena, firma, edita y organiza tus PDF. La primera versión sale muy pronto.
 - **Molino Documentos, Hojas y Presentaciones**: en desarrollo.
 
 **Molino is a free, open-source office suite for your computer:** documents, spreadsheets, presentations and PDF. No ads, no accounts, no subscriptions, and your files stay on your computer.
 
-- **Molino PDF**: read, fill in, sign, edit and organize your PDFs. It used to be called Folio PDF.
+- **Molino PDF**: read, fill in, sign, edit and organize your PDFs. The first version is coming very soon.
 - **Molino Docs, Sheets and Slides**: in development.
 
 <div align="center">
