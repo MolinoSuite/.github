@@ -21,7 +21,7 @@
 - **Molino Presentaciones**: para clase, el trabajo o contar una idea; abre y guarda las de PowerPoint.
 - **Molino PDF**: lee, rellena, firma, edita y organiza tus PDF.
 
-Todas juntas en [Molino Suite](https://apps.microsoft.com/detail/9PB626KN1HND), gratis en la Microsoft Store. ¿Solo el PDF? [Molino PDF](https://apps.microsoft.com/detail/9NRTWZFHG67N).
+Todas juntas en [Molino Suite](https://molinosuite.org/descargar/), gratis en la Microsoft Store. ¿Solo el PDF? [Molino PDF](https://molinosuite.org/descargar/).
 
 **Molino is a free, open-source office suite for your computer:** documents, spreadsheets, presentations and PDF. No ads, no accounts, no subscriptions, and your files stay on your computer.
 
@@ -30,7 +30,7 @@ Todas juntas en [Molino Suite](https://apps.microsoft.com/detail/9PB626KN1HND), 
 - **Molino Slides**: for class, work or getting an idea across; opens and saves PowerPoint files.
 - **Molino PDF**: read, fill in, sign, edit and organize your PDFs.
 
-All together in [Molino Suite](https://apps.microsoft.com/detail/9PB626KN1HND), free in the Microsoft Store. Only need PDF? [Molino PDF](https://apps.microsoft.com/detail/9NRTWZFHG67N).
+All together in [Molino Suite](https://molinosuite.org/en/download/), free in the Microsoft Store. Only need PDF? [Molino PDF](https://molinosuite.org/en/download/).
 
 <div align="center">
 
